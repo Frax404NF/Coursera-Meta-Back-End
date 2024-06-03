@@ -192,3 +192,19 @@ Always double-check the `WHERE` clause to avoid unintended deletions. It's a goo
 
 ### Final Note
 You now have a solid understanding and practical skills in handling CRUD operations in SQL, alongside an in-depth knowledge of various SQL data types. You're well-equipped to create, manage, and manipulate data in databases, contributing significantly to your learning journey in database management and SQL proficiency. Keep up the great work!
+
+# Additional Resources
+
+Here is a list of resources that may be helpful as you continue to explore database engineering :
+
+- Tutorialspoint
+(https://www.tutorialspoint.com/sql/index.htm)
+
+- Javatpoint
+(https://www.javatpoint.com/sql-tutorial)
+
+- W3Schools
+(https://www.w3schools.com/sql/)
+
+
+
